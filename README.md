@@ -1,4 +1,7 @@
 # iOSMauiScrollUpOnKeyboardShow
+
+#### Note: [This issue shouldn't occur on .NET MAUI 8 and above](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/controls/editor?view=net-maui-8.0#create-an-editor).
+
 .NET Maui App that demonstrate how to scroll the page up when the keyboard is shown on iOS.
 
 This affects only the iOS platform, Android (and hopefully the others) are unaffected and the behavior on these is the default one.
